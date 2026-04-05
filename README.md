@@ -1,3 +1,10 @@
+Hey there, I'm so glad you'r here!
+Welcom to little bit my corner of Github
+I’m a Data Analytics enthusiast on a mission to turn complex data into clear, actionable stories. As a recent graduate, I spend my time exploring patterns, building dashboards, and finding the 'why' behind the numbers.
+
+🔍 What I’m up to: Mastering Power BI and Excel to create high-impact visualizations.
+💡 Current Focus: Analyzing real-world datasets (like transportation and business trends) to improve decision-making.
+🌱 Learning: Expanding my toolkit with advanced SQL and Python for data science.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.shubhamgupta1998@gmail.com) 
