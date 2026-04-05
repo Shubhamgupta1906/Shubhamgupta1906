@@ -1,5 +1,7 @@
 Hey there, I'm so glad you'r here!
+
 Welcom to little bit my corner of Github
+
 I’m a Data Analytics enthusiast on a mission to turn complex data into clear, actionable stories. As a recent graduate, I spend my time exploring patterns, building dashboards, and finding the 'why' behind the numbers.
 
 🔍 What I’m up to: Mastering Power BI and Excel to create high-impact visualizations.
